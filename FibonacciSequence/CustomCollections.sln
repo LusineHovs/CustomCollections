@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciSequence", "Fibona
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomCollection", "CustomCollection\CustomCollection.csproj", "{54C14AD0-0239-44FB-8895-EFC33065651D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yield", "Yield\Yield.csproj", "{2B4F3B77-B0EB-4C83-8CDD-0712B2E10C92}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{54C14AD0-0239-44FB-8895-EFC33065651D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54C14AD0-0239-44FB-8895-EFC33065651D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54C14AD0-0239-44FB-8895-EFC33065651D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2B4F3B77-B0EB-4C83-8CDD-0712B2E10C92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2B4F3B77-B0EB-4C83-8CDD-0712B2E10C92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2B4F3B77-B0EB-4C83-8CDD-0712B2E10C92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2B4F3B77-B0EB-4C83-8CDD-0712B2E10C92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
