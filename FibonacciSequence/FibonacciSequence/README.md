@@ -3,6 +3,8 @@
 [Fibonacci Sequence](https://en.wikipedia.org/wiki/Fibonacci_number) are the sequence of numbers, which have the following view:
 **1,1,2,3,5,8,13,21,...**
 
+<img src="https://cloud.githubusercontent.com/assets/24455176/22371805/a8f1a662-e4b2-11e6-9dce-a310141b0bc5.png" align="right" />
+
 The method which calculates Fibonacci numbers, used *yield return* and the return type of the method is *IEnumerable of type int*.
 ```C#
 public static IEnumerable<int> GetFibonacciNumber()
