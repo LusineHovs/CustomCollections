@@ -13,7 +13,7 @@ namespace CustomCollection
         public UserCollection()
         {
             elementsArray = new Element[4];
-            elementsArray[0] = new Element("A", 10, 15);
+            elementsArray[0] = new Element("A", 10, 11);
             elementsArray[1] = new Element("B", 11, 16);
             elementsArray[2] = new Element("C", 12, 17);
             elementsArray[3] = new Element("D", 13, 17);

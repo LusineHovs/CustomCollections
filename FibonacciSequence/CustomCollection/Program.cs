@@ -15,6 +15,7 @@ namespace CustomCollection
             {
                 Console.WriteLine($"{element.Name}, {element.Field1}, {element.Field2}");
             }
+           
             // myCollection.Reset();
 
             // HOW DOES WORK FOREACH!!!
