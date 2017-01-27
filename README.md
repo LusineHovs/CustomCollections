@@ -4,6 +4,7 @@ In this repository you can find some interesting examples of creating custom col
 
 [FibonacciSequence](https://github.com/LusineHovs/CustomCollections/tree/master/FibonacciSequence/FibonacciSequence)<br>
 [CustomCollection](https://github.com/LusineHovs/CustomCollections/tree/master/FibonacciSequence/CustomCollection)<br>
+[Yield](https://github.com/LusineHovs/CustomCollections/tree/master/FibonacciSequence/Yield)<br>
 
 
 #Keywords
