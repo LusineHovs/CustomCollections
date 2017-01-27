@@ -21,5 +21,6 @@ public static IEnumerable<int> GetFibonacciNumber()
     }
 }
 ```
-#Output of first 10 Fibonacci Numbers
+#Output 
+First 10 Fibonacci Numbers
 <img src="https://cloud.githubusercontent.com/assets/24455176/22371200/3315e0be-e4af-11e6-8e92-7c9f08d54d1c.jpg"  />
