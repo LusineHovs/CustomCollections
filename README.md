@@ -8,4 +8,4 @@ In this repository you can find some interesting examples of creating custom col
 
 
 #Keywords
-C# 6.0, .Net Framework 4.6, Microsoft Visual Studio.
+C# 6.0, .Net Framework 4.6, MS Visual Studio.
